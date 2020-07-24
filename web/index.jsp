@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Mar 25, 2020, 1:27:23 PM
-    Author     : sakshi
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -73,6 +67,10 @@
                         <a href="Star_Ratings.jsp">Resume Building Workshop & Career Counseling Session 
                         </a>
                     </li>
+                    <li>
+                        <a href="Star_Ratings.jsp">Past years Details 
+                        </a>
+                    </li>
 
 
                 </ul>
@@ -113,33 +111,58 @@
                 <h1 style="display: inline">IET DAVV Student's Chapter</h1>
                 <br>
                 <br>
+                <p>There are various social activities and events that are organised by EWB IET DAVV Chapter during a academic year. Such as collection camp, blood donation camp etc.
+                    There are some technical events such as “All India workshop for Project Management and Sustainable Developments” are organised.
+                    Apart from these social and technical events, we have technical projects fulfilling the visions and missions of EWB.
+                </p>
+
+                <br>
                 <h4>What is EWB?</h4>
                 <p>EWB or <b>Engineers Without Borders</b> is a non-governmental and non-profitable organization.
                     All its activities are based on engineering applications and development works.
                     All members of across the world, work to serve the needs of disadvantaged communities through engineering projects.
                     There are three types of EWB chapters:</p>
-                   <ul>
-                        <li>Student chapter</li>
-                        <li>Professional chapter</li>
-                        <li>State-wide chapter</li>
-                    </ul>
-            
+                <ul>
+                    <li>Student chapter</li>
+                    <li>Professional chapter</li>
+                    <li>State-wide chapter</li>
+                </ul>
+
                 <p> EWB IET DAVV is a student chapter and is the only running chapter in central India.</p>
+                <br>
+                <h4>Origin of EWB</h4>
+                <p>In 2003 a small group of engineers from Melbourne, Australia, were inspired to do something a little different with their engineering qualifications. After an attempt to organize some overseas development work, they noticed that there was a void. Inexperienced volunteers could do unskilled labor whilst experienced engineers were highly sought after to be involved in complicated engineering development work. There was almost no structured avenue for young engineers looking to get skilled experience.
+                    These engineers decided that they needed a framework through which many more engineers and students could become involved. Such an organization would be a community of like-minded people who were inspired to learn about the issues facing the world and were prepared to get out there and work to improve the living conditions of disadvantaged people.
+                </p>
+                <h4>EWB's Mission</h4>
+                <p>Engineers Without Borders works with disadvantaged communities to improve their quality of life through education and the implementation of sustainable engineering programs.</p>
+                <h4>EWB's Vision</h4>
+                <ul>
+                    <li>EWB’s vision is of a world where every individual and community has adequate access to the resources, knowledge and technology necessary to meet their self identified human needs.</li>
+                    <li>We have the technology that can treat water to make it potable, manage waste so that it doesn’t pollute and generate renewable energy.</li>
+                    <li>Our task is to make sure that these technologies are accessible to all.</li>
+                    <li>EWB envisions a transformed world where appropriate and sustainable technology is at the forefront of every engineer’s mind.</li>
 
-                    <!--            <div class="line"></div>
+                    <li>We also perceive a conscious and concerned Australia that is a leader in the fight against poverty and an advocate for the rights of all people around the world.</li>
 
-                <h2>Lorem Ipsum Dolor</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <li>Fundamental to this vision is our conviction that each individual has the ability and the responsibility to make a positive impact in the world.</li>
+                </ul>
 
-                <div class="line"></div>
 
-                <h2>Lorem Ipsum Dolor</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <!--            <div class="line"></div>
 
-                <div class="line"></div>
+            <h2>Lorem Ipsum Dolor</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-                <h3>Lorem Ipsum Dolor</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
+            <div class="line"></div>
+
+            <h2>Lorem Ipsum Dolor</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+            <div class="line"></div>
+
+            <h3>Lorem Ipsum Dolor</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>-->
             </div>
         </div>
 
