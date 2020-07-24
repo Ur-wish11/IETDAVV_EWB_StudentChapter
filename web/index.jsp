@@ -35,10 +35,10 @@
                 <ul class="list-unstyled components">
                     <!--                    <p>How many people visited Website?</p>-->
                     <li>
-                        <a href="People_Visited.jsp">Induction and Recruitment Process</a>
+                        <a href="InductionRecruitmentProcess.jsp">Induction and Recruitment Process</a>
                     </li>
                     <li>
-                        <a href="People_Visited.jsp">Helen Keller School Project</a>
+                        <a href="HellenKellerProject.jsp">Helen Keller School Project</a>
                     </li>
                     <!--                    <li class="active">
                                             <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Home</a>
@@ -49,7 +49,7 @@
                                             </ul>
                                         </li>-->
                     <li>
-                        <a href="MostViewed_Gardens.jsp">Collection Camps and Clothes Distribution</a>
+                        <a href="CollectionCamp.jsp">Collection Camps and Clothes Distribution</a>
                         <!--                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Pages</a>
                                                 <ul class="collapse list-unstyled" id="pageSubmenu">
                                                     <li><a href="#">Page 1</a></li>
@@ -58,17 +58,17 @@
                                                 </ul>-->
                     </li>
                     <li>
-                        <a href="RobinHood_Details.jsp">Robin hood distribution Details</a>
+                        <a href="RobinHoodProject.jsp">Robin hood distribution Details</a>
                     </li>
                     <li>
-                        <a href="Star_Ratings.jsp">Plantation Activity</a>
+                        <a href="PlantationActivity.jsp">Plantation Activity</a>
                     </li>
                     <li>
-                        <a href="Star_Ratings.jsp">Resume Building Workshop & Career Counseling Session 
+                        <a href="ResumeBuilding_CarrerCounselling.jsp">Resume Building Workshop & Career Counseling Session 
                         </a>
                     </li>
                     <li>
-                        <a href="Star_Ratings.jsp">Past years Details 
+                        <a href="PastYearsDetails.jsp">Past years Details 
                         </a>
                     </li>
 
@@ -98,7 +98,7 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right" style="display: inline-block">
                                 <li><a href="GardensRegisteredServlet"><b>Highlights</b></a></li>
-                                <li><a href="RequestPendingServlet"><b>Year Plan</b></a></li>
+                                <li><a href="YearPlan.jsp"><b>Year Plan</b></a></li>
                                 <!--                                <li><a href="#">Page</a></li>
                                                                 <li><a href="#">Page</a></li>-->
                             </ul>
