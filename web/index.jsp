@@ -111,7 +111,9 @@
 
 
                 <h1 style="display: inline">IET DAVV Student's Chapter</h1>
-
+                <br>
+                <br>
+                <h4>What is EWB?</h4>
                 <p>EWB or Engineers Without Borders is a non-governmental and non-profitable organisation.
                     All its activities are based on engineering applications and development works.
                     All members of across the world, work to serve the needs of disadvantaged communities through engineering projects.
