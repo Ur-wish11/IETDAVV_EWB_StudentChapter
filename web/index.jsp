@@ -115,13 +115,14 @@
                 <p>EWB or Engineers Without Borders is a non-governmental and non-profitable organisation.
                     All its activities are based on engineering applications and development works.
                     All members of across the world, work to serve the needs of disadvantaged communities through engineering projects.
-                    There are three types of EWB chapters:
-                    <ul>
+                    There are three types of EWB chapters:</p>
+                   <ul>
                         <li>Student chapter</li>
                         <li>Professional chapter</li>
                         <li>State-wide chapter</li>
                     </ul>
-                EWB IET DAVV is a student chapter and is the only running chapter in central India.</p>
+            
+                <p> EWB IET DAVV is a student chapter and is the only running chapter in central India.</p>
 
                     <!--            <div class="line"></div>
 
