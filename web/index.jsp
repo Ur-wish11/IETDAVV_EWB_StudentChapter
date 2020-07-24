@@ -99,8 +99,8 @@
 
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav navbar-right" style="display: inline-block">
-                                <li><a href="GardensRegisteredServlet"><b>Garden Registered</b></a></li>
-                                <li><a href="RequestPendingServlet"><b>Requests Pending</b></a></li>
+                                <li><a href="GardensRegisteredServlet"><b>Highlights</b></a></li>
+                                <li><a href="RequestPendingServlet"><b>Year Plan</b></a></li>
                                 <!--                                <li><a href="#">Page</a></li>
                                                                 <li><a href="#">Page</a></li>-->
                             </ul>
@@ -114,7 +114,7 @@
                 <br>
                 <br>
                 <h4>What is EWB?</h4>
-                <p>EWB or Engineers Without Borders is a non-governmental and non-profitable organisation.
+                <p>EWB or <b>Engineers Without Borders</b> is a non-governmental and non-profitable organization.
                     All its activities are based on engineering applications and development works.
                     All members of across the world, work to serve the needs of disadvantaged communities through engineering projects.
                     There are three types of EWB chapters:</p>
